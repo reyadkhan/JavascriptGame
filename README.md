@@ -1,2 +1,2 @@
 # JavascriptGame
-<p>It is for practice of javascript oop</p>
+<p>It is for practice of javascript oop.</p>
